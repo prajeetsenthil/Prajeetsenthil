@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there👋 i'm Prajeet</h1>
+<h1 align="center">hey there👋 </h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 Electrical and Electronics Engineer with experience in circuit design, embedded systems, and power systems. <br>- 📚 Skilled in hardware troubleshooting, simulation software, and PCB design.<br>- ⚡ Adept at collaborating in multidisciplinary teams to deliver innovative engineering solutions.</p>
+<p align="left">I'm Prajeet<br><br>- 🔭 Electrical and Electronics Engineer with experience in circuit design, embedded systems, and power systems. <br>- 📚 Skilled in hardware troubleshooting, simulation software, and PCB design.<br>- ⚡ Adept at collaborating in multidisciplinary teams to deliver innovative engineering solutions.</p>
 
 ###
 
